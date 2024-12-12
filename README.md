@@ -38,15 +38,15 @@ npm install
 After installing npm packages, the application will be invoked by using the following command:
 
 ```
-npm start
+npm run develop
 ```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
+## Deployed Link
+[Click here to see the app!](https://fittrack-mlvj.onrender.com/)
 
 
 #### Example Screenshot
